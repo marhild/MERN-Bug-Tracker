@@ -26,8 +26,7 @@
     "scheduler": "^0.19.1",
     "semantic-ui-calendar-react": "^0.15.3",
     "semantic-ui-react": "^0.88.1",
-    "uuid": "^3.3.3",
-    "webpack": "^4.41.2"
+    "uuid": "^3.3.3"
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
